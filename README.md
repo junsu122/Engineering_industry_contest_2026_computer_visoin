@@ -14,6 +14,7 @@
     당신의 브라우저는 비디오 태그를 지원하지 않습니다.
   </video>
 </div>
+![Screencast from 03-26-2026 07-19-08 PM](https://github.com/user-attachments/assets/f962ae59-4176-4a43-b5b1-521c5d0a0662)
 
 <br>
 
