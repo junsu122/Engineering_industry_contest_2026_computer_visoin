@@ -6,7 +6,7 @@ from mss import mss
 from ultralytics import YOLO
 
 # 1. 모델 로드 (본인의 best.pt 경로로 수정)
-model = YOLO('/home/junsu/engineering_contest/Engineering_industry_contest_2026_computer_visoin/best(1).pt')
+model = YOLO('/home/junsu/engineering_contest/Engineering_industry_contest_2026_computer_visoin/best.pt')
 
 # 2. 화면 캡처 설정
 # {'top': 시작y, 'left': 시작x, 'width': 가로, 'height': 세로}
